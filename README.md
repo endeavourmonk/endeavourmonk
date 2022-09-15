@@ -1,6 +1,4 @@
-<div align="center">
-    <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400" height="400" alt="css-in-readme">
-</div>
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400" height="400" alt="css-in-readme">
 <h1 align="center">Hi 👋, I'm Ujjawal Kumar</h1>
 <h3 align="center">Programmer</h3>
 
