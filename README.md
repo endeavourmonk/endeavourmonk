@@ -1,3 +1,6 @@
+<div align="center">
+    <img src="https://github.com/ujjawal-kmr/ujjawal-kmr/blob/master/img.svg" width="400" height="400" alt="css-in-readme">
+</div>
 <h1 align="center">Hi 👋, I'm Ujjawal Kumar</h1>
 <h3 align="center">Programmer</h3>
 
