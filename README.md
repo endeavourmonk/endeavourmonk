@@ -14,9 +14,9 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/ujjawal1/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rvkicnLKG1ku_QujY_J2Hv_vdxfLiY2d/view?usp=sharing](https://drive.google.com/file/d/1rvkicnLKG1ku_QujY_J2Hv_vdxfLiY2d/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1rvkicnLKG1ku_QujY_J2Hv_vdxfLiY2d/view?usp=sharing)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjawal-kmr&show_icons=true&locale=en&layout=compact" alt="ujjawal-kmr" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjawal-kmr&show_icons=true&locale=en&layout=compact" alt="ujjawal-kmr" /></p></br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjawal-kmr&show_icons=true&locale=en" alt="ujjawal-kmr" /></p>
 
