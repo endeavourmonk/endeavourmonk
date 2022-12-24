@@ -16,11 +16,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1rvkicnLKG1ku_QujY_J2Hv_vdxfLiY2d/view?usp=sharing](https://drive.google.com/file/d/1rvkicnLKG1ku_QujY_J2Hv_vdxfLiY2d/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/15375057/ujjawal-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:15375057" height="30" width="40" /></a>
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjawal-kmr&show_icons=true&locale=en&layout=compact" alt="ujjawal-kmr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjawal-kmr&show_icons=true&locale=en" alt="ujjawal-kmr" /></p>
