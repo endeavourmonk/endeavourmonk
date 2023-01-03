@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@endeavourmonk-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Harshkhatri24)](https://twitter.com/endeavourmonk) 
 [![Linkedin Badge](https://img.shields.io/badge/-ujjawal1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ujjawal1/)](https://www.linkedin.com/in/ujjawal1/) 
 [![Medium Badge](https://img.shields.io/badge/-@endeavourmonk-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@endeavourmonk)](https://medium.com/@endeavourmonk)
-[![Gmail Badge](https://img.shields.io/badge/-ujjawalkumar1729@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ujjawalkumar1729@gmail.com)](mailto:ujjawalkumar1729@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-mail me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ujjawalkumar1729@gmail.com)](mailto:ujjawalkumar1729@gmail.com)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
