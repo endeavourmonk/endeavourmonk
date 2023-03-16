@@ -3,7 +3,7 @@
 <h3 align="center">Full-stack developer from India</h3>
 
 [![Twitter Badge](https://img.shields.io/badge/-@endeavourmonk-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Harshkhatri24)](https://twitter.com/endeavourmonk) 
-[![Linkedin Badge](https://img.shields.io/badge/-ujjawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ujjawalkmr/)](https://www.linkedin.com/in/ujjawal1/) 
+[![Linkedin Badge](https://img.shields.io/badge/-ujjawalkmr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ujjawalkmr/)](https://www.linkedin.com/in/ujjawalkmr/) 
 [![Medium Badge](https://img.shields.io/badge/-@endeavourmonk-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@endeavourmonk)](https://medium.com/@endeavourmonk)
 [![Gmail Badge](https://img.shields.io/badge/-mailMe-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ujjawalkumar1729@gmail.com)](mailto:ujjawalkumar1729@gmail.com)
 
@@ -26,3 +26,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/endeavourmonk/count.svg" />
 </p>
+
+<div align="center">
+  <img alt="Ujjawal's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=endeavourmonk&theme=chartreuse-dark&show_icons=true)](https://github.com/endeavourmonk/github-readme-stats" />
+</div>
