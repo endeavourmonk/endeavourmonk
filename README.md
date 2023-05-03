@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ujjawal Kumar</h1>
 <h3 align="center">Full-stack developer from India</h3>
 
+## Social Links
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjawalkmr)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/endeavourmonk) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjawalcode@gmail.com)
