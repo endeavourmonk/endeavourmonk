@@ -42,11 +42,6 @@
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/endeavourmonk/count.svg" />
-</p>
-
 <div align="center">
   <img alt="Ujjawal's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=endeavourmonk&theme=chartreuse-dark&show_icons=true)](https://github.com/endeavourmonk/github-readme-stats" />
 </div>
