@@ -38,6 +38,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-#<div align="center">
-  #<img alt="Ujjawal's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=endeavourmonk&theme=chartreuse-dark&show_icons=true)](https://github.com/endeavourmonk/github-readme-stats" />
-#</div>
+[//]: # <div align="center">
+ [//]: # <img alt="Ujjawal's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=endeavourmonk&theme=chartreuse-dark&show_icons=true)](https://github.com/endeavourmonk/github-readme-stats" />
+[//]: # </div>
